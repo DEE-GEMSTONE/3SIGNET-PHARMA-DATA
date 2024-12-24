@@ -1,4 +1,4 @@
-##### PROJECT: ABC PHARMACEUTICAL COMPANY
+############ PROJECT: ABC PHARMACEUTICAL COMPANY
 
 ### Problem Statement
 
